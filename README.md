@@ -1,7 +1,3 @@
-# kubernetes-the-hard-way
-Kubernetes the hard way on K8S
-
-
 Kubernetes the hard way on GCP
 
 Prerequisites
